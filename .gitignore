@@ -9,3 +9,7 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+/.vs
+/challenges/.vs
+/challenges/hello-world-c/c11/out/build/x64-Debug (default)
+/challenges/out/build/x64-Debug (default)
