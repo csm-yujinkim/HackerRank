@@ -13,3 +13,5 @@ _deps
 /challenges/.vs
 /challenges/hello-world-c/c11/out/build/x64-Debug (default)
 /challenges/out/build/x64-Debug (default)
+/challenges/ctci-array-left-rotation/.vs
+/challenges/ctci-array-left-rotation/out/build/x64-Debug (default)
